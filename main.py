@@ -13,7 +13,7 @@ yd = yt.streams.get_highest_resolution();
 #can even just extract the audio
 # ya = yt.streams.get_audio_only();
 
-yd.download('C:/Users/Sidhant Mishra/Downloads')
-# ya.download('C:/Users/Sidhant Mishra/Downloads')
+yd.download('Enter the path where you want to download the video')
+# ya.download('Enter the path where you want to download the audio')
 
 
